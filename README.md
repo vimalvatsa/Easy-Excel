@@ -26,4 +26,10 @@ Important points:
  
  3. Gemini, which is free is still not capable enough to solve the issues and lacks the capability to process files, the same issue is with Microsoft copilot.
 
+Flutter Cross - Platform Project Link : https://github.com/harshpatil2304/Easy-Excel.git
+
+Was unable to push the code due to some initialisation errors . 
+
+
+
 
